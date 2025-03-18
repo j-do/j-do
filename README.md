@@ -19,3 +19,4 @@ Add new utility script
 Polish UI layout
 Update dependencies
 Refactor core logic
+Improve performance
