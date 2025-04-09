@@ -18,3 +18,4 @@ Fix broken link
 Add new utility script
 Polish UI layout
 Update dependencies
+Refactor core logic
