@@ -21,3 +21,4 @@ Update dependencies
 Refactor core logic
 Improve performance
 Add documentation
+Improve error handling
