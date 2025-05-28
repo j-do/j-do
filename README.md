@@ -20,3 +20,4 @@ Polish UI layout
 Update dependencies
 Refactor core logic
 Improve performance
+Add documentation
